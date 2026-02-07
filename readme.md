@@ -50,9 +50,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=S-36&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<p align="left">I'm julio from Colombia<br><br>- 🔭 I’m looking for work<br>- 📚 I'm currently learning Java and Python<br>- ⚡ In my free time I study cybersecurity</p>
 
 ###
 
